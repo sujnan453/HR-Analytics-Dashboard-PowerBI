@@ -4,6 +4,12 @@ An interactive HR Analytics Dashboard built using **Power BI** and IBM HR Employ
 
 ---
 
+## 📸 Dashboard Screenshot
+
+![HR Analytics Dashboard](Dashboard_Screenshot.png)
+
+---
+
 ## 📁 Project Structure
 
 ```
